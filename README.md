@@ -1,4 +1,5 @@
 # 💎 Layout responsivo: Página estática
+
 - Projeto estático website layout.
 
 ![dsmeta-layout](https://user-images.githubusercontent.com/66843745/202589612-3117a878-f3a0-472a-a12e-122e75778f92.gif)
